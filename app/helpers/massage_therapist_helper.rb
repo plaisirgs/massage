@@ -1,0 +1,2 @@
+module MassageTherapistHelper
+end
