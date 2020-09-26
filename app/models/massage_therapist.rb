@@ -1,0 +1,2 @@
+class MassageTherapist < ApplicationRecord
+end

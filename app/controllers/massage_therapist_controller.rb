@@ -1,2 +1,0 @@
-class MassageTherapistController < ApplicationController
-end
